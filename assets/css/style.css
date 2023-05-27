@@ -2346,7 +2346,7 @@ input[type=number]::-webkit-outer-spin-button {
   height: 0%;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
-  background-color: #fff;
+  background-color: #108082;
   -webkit-animation: borderLine 1000ms ease-in-out 0s forwards;
   animation: borderLine 1000ms ease-in-out 0s forwards;
 }
